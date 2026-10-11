@@ -22,6 +22,14 @@ I dedicated **two months** to studying and building a solid foundation in cybers
 ![Security+ Certificate](Screenshot_20260329_125442_WhatsApp.jpg)
 ---
 
+## ▶️ Video study resource
+
+- [Professor Messer's CompTIA study playlists on YouTube](https://www.youtube.com/@professormesser/playlists)
+
+This is a study resource, listed separately from the certificates above.
+
+---
+
 ## 🧠 Key Skills & Concepts
 
 ### 🔒 Security Fundamentals
