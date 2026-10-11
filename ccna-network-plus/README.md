@@ -9,6 +9,14 @@ Notes from studying CCNA and CompTIA Network+, alongside the badges earned durin
 
 These courses helped me understand how networks are designed, secured, and maintained.
 
+## Video study resources
+
+- [Professor Messer's CompTIA study playlists on YouTube](https://www.youtube.com/@professormesser/playlists) — includes CompTIA Network+ study material.
+- [Jeremy's IT Lab on YouTube](https://www.youtube.com/@JeremysITLab) — CCNA videos, labs, and study resources.
+- [Jeremy's IT Lab: CCNA 200-301, Day 1 — Network Devices](https://www.youtube.com/watch?v=H8W9oMNSuwo) — start of the free CCNA course.
+
+These are study resources, not certification credentials.
+
 ## Badges and achievements
 
 ![Networking badge 1](1774788295308.jpg)
