@@ -10,11 +10,11 @@ Course notes and certificate from the HarvardX course.
 
 ## Notes
 
-- [Section 1 — Securing Accounts](Section%201%20-%20Securing%20Accounts.md)
-- [Section 2 — Securing Data](Section%202%20-%20Securing%20Data.md)
-- [Section 3 — Securing Systems](Section%203%20-%20Securing%20System.md)
-- [Section 4 — Securing Software](Section%204%20-%20Securing%20Software.md)
-- [Section 5 — Preserving Privacy](Section%205%20-%20Preserving%20Privacy.md)
+- [Section 1 — Securing Accounts](section-1-securing-accounts.md)
+- [Section 2 — Securing Data](section-2-securing-data.md)
+- [Section 3 — Securing Systems](section-3-securing-system.md)
+- [Section 4 — Securing Software](section-4-securing-software.md)
+- [Section 5 — Preserving Privacy](section-5-preserving-privacy.md)
 
 ## Topics and skills
 
