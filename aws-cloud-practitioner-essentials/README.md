@@ -5,8 +5,8 @@
 **Completed:** July 4, 2026  
 **Certificate awarded to:** Ibrahim Yusuf
 
-This course builds foundational understanding of the AWS Cloud: its benefits and core concepts, AWS services and compute, scalable and serverless environments, security, monitoring, pricing, and architecture.
+## Course notes
 
-These topics support my cloud learning and complement my cybersecurity and networking studies.
+[Read the AWS Cloud Practitioner Essentials notes](notes.md) — summaries of the course's cloud, compute, global infrastructure, networking, storage, databases, AI/ML and analytics, security, governance, pricing, migration, and Well-Architected topics.
 
 > This is an AWS Skill Builder course completion certificate. It is not the AWS Certified Cloud Practitioner exam credential.
